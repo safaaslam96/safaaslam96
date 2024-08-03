@@ -17,6 +17,11 @@
  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,python"/><br/>
  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,githubactions,kubernetes,docker&titles=true"/>
 
+ 
+ - Framework: ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+- Tools:  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+
 <!--
 **safaaslam96/safaaslam96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
