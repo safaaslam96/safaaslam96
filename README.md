@@ -9,14 +9,13 @@
 
 <p align="center">
  <a href="https://www.instagram.com//" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" height=50 withd=50 /></a>
-  <a href="https://www.linkedin.com/safa-aslam-97bb572ba" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height=50 withd=50 /></a>
+  <a href="https://www.linkedin.com/safa-aslam" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height=50 withd=50 /></a>
   <a href="https://github.com/safaaslam96" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" height=50 withd=50 /></a>
 
 
 ## 📚 Main Tech Stack 
  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,python"/><br/>
  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,githubactions,kubernetes,docker&titles=true"/>
-## Hi there 👋
 
 <!--
 **safaaslam96/safaaslam96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
