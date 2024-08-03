@@ -14,7 +14,7 @@
 
 
 ## 📚 Main Tech Stack 
- <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,python,reactjs,nodejs"/><br/>
+ <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,python"/><br/>
  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,githubactions,kubernetes,docker&titles=true"/>
 ## Hi there 👋
 
