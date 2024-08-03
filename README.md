@@ -8,7 +8,7 @@
 ### Feel free to reach me at safaaslam509@gmail.com 
 
 <p align="center">
- <a href="https://www.instagram.com//" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" height=50 withd=50 /></a>
+ <a href="https://www.instagram.com/safa_etti/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" height=50 withd=50 /></a>
   <a href="https://www.linkedin.com/in/safa-aslam-97bb572ba" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height=50 withd=50 /></a>
   <a href="https://github.com/safaaslam96" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" height=50 withd=50 /></a>
 
