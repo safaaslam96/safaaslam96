@@ -9,7 +9,7 @@
 
 <p align="center">
  <a href="https://www.instagram.com//" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" height=50 withd=50 /></a>
-  <a href="https://www.linkedin.com/in/Safa Aslam/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height=50 withd=50 /></a>
+  <a href="https://www.linkedin.com/in/safa aslam/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height=50 withd=50 /></a>
   <a href="https://github.com/safaaslam96" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" height=50 withd=50 /></a>
 
 
